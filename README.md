@@ -36,4 +36,4 @@ Key Splunk detections
 - Cybersecurity Diploma - Expected 2026
 
 **Learning Platforms**
-- TryHackMe: (https://tryhackme.com/p/OluchiAdebanjo)]
+- TryHackMe: https://tryhackme.com/p/OluchiAdebanjo
