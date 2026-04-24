@@ -1,0 +1,18 @@
+# Splunk Alert Rules and Security Dashboard
+
+Built automated real-time alert rules and a live security monitoring
+dashboard in Splunk Enterprise.
+
+## Alert Rules Created
+| Alert | EventCode | Severity |
+|-------|-----------|----------|
+| New Local User Account Created | 4720 | High |
+| Member Added to Administrators Group | 4732 | Critical |
+
+## Dashboard Panels
+- Login Activity column chart (successful vs failed logins)
+- Top Security Event Codes pie chart
+- Recent High Priority Security Events table
+
+## Tools
+Splunk Enterprise, Windows Event Logs, SPL
