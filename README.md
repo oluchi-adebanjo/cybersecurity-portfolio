@@ -14,9 +14,9 @@ Edmonton, Alberta | [LinkedIn URL:https://www.linkedin.com/in/oluchi-adebanjo-17
 - Installed and configured Splunk Enterprise on a Windows endpoint
 - Ingested live Windows Security, System and Application Event Logs
 - Simulated 3 real attacker techniques on my own machine:
-* Created a rogue backdoor user account
-* Escalated the account to the Administrators group
-* Created a persistent scheduled task disguised as a Windows update
+  Created a rogue backdoor user account
+  Escalated the account to the Administrators group
+  Created a persistent scheduled task disguised as a Windows update
 - Detected all 3 attacks in Splunk using custom SPL queries
 - Documented findings in a formal Incident Investigation Report
 
