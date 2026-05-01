@@ -1,4 +1,4 @@
-## 🔬 Network Traffic Analysis — Wireshark Lab
+## 🔬 Network Traffic Analysis - Wireshark Lab
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-4.6.4-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Protocols](https://img.shields.io/badge/Protocols-DNS%20%7C%20HTTP%20%7C%20TLS-4CAF50?style=flat)
