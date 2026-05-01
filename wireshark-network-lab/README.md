@@ -28,9 +28,9 @@ Capture live network traffic, apply protocol-specific filters, and analyze DNS, 
 
 - Captured **12,637 live packets** on a Windows Wi-Fi interface
 - Applied and analyzed four key display filters:
-  - `dns` — DNS query/response behavior
-  - `http` — HTTP request and response patterns
-  - `tls` — Encrypted session characteristics and TLS handshakes
+  - `dns` - DNS query/response behavior
+  - `http` - HTTP request and response patterns
+  - `tls` - Encrypted session characteristics and TLS handshakes
   - External traffic filter to isolate non-local IP communications
 - Identified protocol behavior across layers
 - Documented all findings in a formal PDF analysis report
